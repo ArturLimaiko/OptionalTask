@@ -4,11 +4,13 @@ import './App.css';
 import {data1,data2, Task} from "./Tasks";
 
 
+// yarn create react-app my-app --template typescript
+// or npx create-react-app my-app --template typescript
+
 // Hi Guys!
 // Let's reinforce our current session!
 // -You have 2 arrays. You should create a new component TASKS, where you will render these arrays.
 // -Don't forget to assign types to our data.
-
 
 function App() {
     return (
